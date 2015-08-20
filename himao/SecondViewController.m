@@ -9,7 +9,7 @@
 #import "SecondViewController.h"
 //部落
 @interface SecondViewController ()
-//d
+//try again
 @end
 
 @implementation SecondViewController
