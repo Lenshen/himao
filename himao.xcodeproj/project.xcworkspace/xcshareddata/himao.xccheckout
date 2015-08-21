@@ -10,22 +10,26 @@
 	<string>himao</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>468C085234C58B25324B27AF11CE81C7CF652671</key>
+		<string>https://github.com/Lenshen/himao.git</string>
 		<key>5B8DCCA86D20C43F954EC0F9C13869D51832A605</key>
 		<string>https://github.com/Lenshen/Training.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>himao/himao.xcodeproj</string>
+	<string>himao.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>468C085234C58B25324B27AF11CE81C7CF652671</key>
+		<string>../..</string>
 		<key>5B8DCCA86D20C43F954EC0F9C13869D51832A605</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Lenshen/Training.git</string>
+	<string>https://github.com/Lenshen/himao.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5B8DCCA86D20C43F954EC0F9C13869D51832A605</string>
+	<string>468C085234C58B25324B27AF11CE81C7CF652671</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>5B8DCCA86D20C43F954EC0F9C13869D51832A605</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Training</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>468C085234C58B25324B27AF11CE81C7CF652671</string>
+			<key>IDESourceControlWCCName</key>
+			<string>himao</string>
 		</dict>
 	</array>
 </dict>
